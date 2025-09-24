@@ -29,9 +29,12 @@ It slices an image into 1080×1350px frames (Instagram’s portrait format) and 
 ### 2. Run the Python script
 From the project folder in terminal:
 
-```bash
-python3 run_photoshop.py
 
 
 ## 🎥 Demo
 [Watch the demo video](demo.mp4)
+
+---
+
+```bash
+python3 run_photoshop.py
