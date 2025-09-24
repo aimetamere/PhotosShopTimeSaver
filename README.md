@@ -31,3 +31,7 @@ From the project folder in terminal:
 
 ```bash
 python3 run_photoshop.py
+
+
+## 🎥 Demo
+[Watch the demo video](assets/demo.mp4)
