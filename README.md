@@ -34,4 +34,4 @@ python3 run_photoshop.py
 
 
 ## 🎥 Demo
-[Watch the demo video](assets/demo.mp4)
+[Watch the demo video](demo.mp4)
