@@ -37,4 +37,8 @@ From the project folder in terminal:
 ---
 
 ```bash
+
+## TODO
+
+update it with front end to visualise before end 
 python3 run_photoshop.py
